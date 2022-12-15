@@ -21,6 +21,11 @@ This is a simple package to create, edit, delete and sort tasks asigned to users
 First of all, create MySQL(or any other suitable database) and config .env file for database credentials.
 Then enter below code in your terminal:
 ```
+composer update
+```
+and then
+
+```
 php artiasn migrate
 ```
 
