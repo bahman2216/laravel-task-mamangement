@@ -24,7 +24,7 @@ Then enter below code in your terminal:
 php artiasn migrate
 ```
 
-Goto the http://localhost:8000/tasks or http:127.0.0.1:8000/tasks
+Goto the http://localhost:8000/tasks or http://127.0.0.1:8000/tasks
 
 ## License
 
